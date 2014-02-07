@@ -15,7 +15,7 @@ Code developed in Arduino 1.0.5, on an Arduino Pro Mini 5V.
 //  Mini Arduino and want to use the default chip select pin.
 MiniGen::MiniGen()
 {
-  _FSYNCPin = 2;
+  _FSYNCPin = 10;
   configSPIPeripheral();
 }
 
