@@ -135,7 +135,7 @@
 <text x="15.113" y="9.652" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">SCLK</text>
 <text x="15.113" y="4.572" size="1.016" layer="22" font="vector" ratio="15" rot="MR0">SDATA</text>
 <text x="2.413" y="20.701" size="0.8128" layer="22" font="vector" ratio="15" rot="MR180">FSYNC</text>
-<text x="13.843" y="0.508" size="1.016" layer="16" font="vector" ratio="15" rot="MR0">v03</text>
+<text x="13.843" y="0.508" size="1.016" layer="16" font="vector" ratio="15" rot="MR0">v10</text>
 <text x="21.59" y="-13.97" size="1.778" layer="51" font="vector" ratio="15">Pete Dokter and Anne Mahaffey</text>
 </plain>
 <libraries>

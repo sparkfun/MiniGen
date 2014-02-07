@@ -7570,7 +7570,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <text x="167.132" y="6.604" size="2.54" layer="94" font="vector">Pete Dokter and Anne Mahaffey</text>
 <text x="35.56" y="35.56" size="1.778" layer="95" font="vector">3.3V</text>
 <text x="50.8" y="106.68" size="1.778" layer="95" font="vector">3.3V-5V</text>
-<text x="238.506" y="6.35" size="3.81" layer="91">03</text>
+<text x="238.506" y="6.35" size="3.81" layer="91">10</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
