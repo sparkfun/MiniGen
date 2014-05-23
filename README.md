@@ -1,8 +1,8 @@
 MiniGen
 =======
 
-[![MiniGen](https://cdn.sparkfun.com//assets/parts/7/2/2/3/11420-01.jpg)*MiniGen Signal Generator
-(BOB-11420)*](https://www.sparkfun.com/products/11420)
+[![MiniGen](https://cdn.sparkfun.com//assets/parts/7/2/2/3/11420-01.jpg)  
+*MiniGen Signal Generator (BOB-11420)*](https://www.sparkfun.com/products/11420)
 
 The [MiniGen](https://www.sparkfun.com/products/11420) designed to be used
 either as a stand-alone board or as a shield that can be placed on top of an
